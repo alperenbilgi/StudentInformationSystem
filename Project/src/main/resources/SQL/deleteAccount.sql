@@ -1,0 +1,1 @@
+DELETE FROM project."user" WHERE user_id = 3001;

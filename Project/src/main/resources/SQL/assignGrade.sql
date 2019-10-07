@@ -1,0 +1,2 @@
+INSERT INTO project.lecturegrade (SELECT 376, 3003, 0, 90 WHERE NOT EXISTS
+            (SELECT * FROM project.lecturegrade WHERE lectureGrade_lecture = 376 AND lectureGrade_student = 3003 AND lectureGrade_type = 0));

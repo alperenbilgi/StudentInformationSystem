@@ -1,0 +1,1 @@
+INSERT INTO project."user" VALUES(123, 'TEST', 'TEST', 'alperenbilgi07@gmail.com');

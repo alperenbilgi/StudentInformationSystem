@@ -1,0 +1,1 @@
+UPDATE project."user" SET user_password = 'pass' WHERE user_id = 3007;

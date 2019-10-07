@@ -1,0 +1,1 @@
+INSERT INTO project.log VALUES('21:01:22', '20-07-2019', 'TEST', '3007 Logged In');

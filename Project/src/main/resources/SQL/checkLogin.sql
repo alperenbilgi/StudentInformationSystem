@@ -1,0 +1,1 @@
+SELECT * FROM project."user" WHERE user_id = 3007 AND user_password = 'pass';
